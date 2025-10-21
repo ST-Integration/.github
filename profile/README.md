@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋What's Up?</h1>
 
 # What this is
@@ -7,7 +6,7 @@ This is our official GitHub repository where we will post all of our software, a
 # Best Practice
 Please follow this process extensively as this will make managing/finding and using content correctly much easier.
 
-**Creating a new Repo**
+## Creating a new Repo
 **Note:** If you do not follow these steps correctly then I will be having a discussion with you!
 - Please first ensure a new Repo is actually required
   - I do not want to find two repositories that are the exact same thing, I will merge them.
